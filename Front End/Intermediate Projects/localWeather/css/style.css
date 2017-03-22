@@ -1,0 +1,29 @@
+body{
+  background-color:#03A9F4 !important;
+}
+body,h1{
+  font-family:"Roboto Condensed" !important;
+  text-align:center;
+  font-size:2em important!;
+  color:white !important;
+  
+}
+h1{
+  text-shadow: 2px 2px #000000;
+}
+.middle{
+  color:black;
+  background-color:white;
+  
+}
+
+.middle,.up{
+  border-radius:25px;
+  border: 2px solid black;
+}
+.up{
+  background-color:#000000;
+  color:#4CAF50;
+}
+
+

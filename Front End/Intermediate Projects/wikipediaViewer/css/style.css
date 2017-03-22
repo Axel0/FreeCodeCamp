@@ -1,0 +1,27 @@
+body{
+  margin-right:30px !important;
+  margin-bottom:10px !important;
+}
+
+
+
+form{
+margin: 10px auto; 
+width:450px;
+}
+
+.title{
+  margin:10px auto;
+  width:450px;
+}
+
+.element{
+  margin:auto auto 10px 10px;
+}
+.tangerine-text{
+  font-family:'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+
